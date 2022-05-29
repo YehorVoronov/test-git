@@ -7,6 +7,15 @@ export default function GitTest() {
     return (
         <View style={styles.container}>
           gitTest
+            TWO dew
+            TWO dew
+            TWO dew
+            TWO dew
+            TWO dew
+            TWO dew
+            TWO dew
+            TWO dew
+            TWO dew
           gitTest
           gitTest
           gitTest
