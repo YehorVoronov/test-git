@@ -11,6 +11,8 @@ export default function GitTest() {
           gitTest
           gitTest
           gitTest
+          gitTest
+          gitTest
         </View>
     );
 }
