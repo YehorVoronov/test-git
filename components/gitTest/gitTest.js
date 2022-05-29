@@ -12,6 +12,13 @@ export default function GitTest() {
           gitTest
           gitTest
           gitTest
+
+            one dewvfvfed
+            one dewvfvfed
+            one dewvfvfed
+            one dewvfvfed
+            one dewvfvfed
+            one dewvfvfed
           gitTest
         </View>
     );
