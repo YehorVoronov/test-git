@@ -7,6 +7,10 @@ export default function GitTest() {
     return (
         <View style={styles.container}>
           gitTest
+          gitTest
+          gitTest
+          gitTest
+          gitTest
         </View>
     );
 }
